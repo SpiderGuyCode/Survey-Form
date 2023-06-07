@@ -36,3 +36,9 @@ h2 {
   font-size: 20px;
   padding: 5px;
 }
+.Rate {
+  height: auto;
+  position: absolute;
+  bottom: 100px;
+  right: 100px;
+}
